@@ -1,0 +1,4 @@
+﻿	1- Encapsulation: hiding data(resources) by restricting access to public method (access modifier).
+	2- Abstraction:   making pattern with Interfaces and Abstract class. (signature)
+	3- Inheritance:   derived classes can reuse the code of existing super classes.
+	4- Polymorphism:  virtual method,property (base class), virtual|override 
